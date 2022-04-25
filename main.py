@@ -21,7 +21,7 @@ from shutil import copy2
 
 # Paths
 parent_folder = "/home/snow/Desktop/AI project/"
-dsail_porini_folder = os.path.join(parent_folder, 'dsail-porini')
+dsail_porini_folder = os.path.join(parent_folder, 'dataset')
 data_folder = os.path.join(parent_folder, 'DATA')
 annotation_file = os.path.join(parent_folder, 'camera_trap_dataset_annotation.xlsx')
 
